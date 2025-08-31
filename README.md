@@ -35,23 +35,13 @@ Online Food Delivery App is a fullstack project built using React (customer & ad
 
 Showcasing core features and user/admin flows:
 
-![Home Page](./screenshots/Home%20page.png)  
-*Engaging landing and menu browsing experience*
+![Home Page](./screenshots/Home%20page.png)
+![Shopping Cart](./screenshots/Shopping%20cart.png)
+![Checkout](./screenshots/checkout%201.png)
+![Admin Panel After Checkout](./screenshots/admin%20panel%202%20after%20checkout.png)
+![Admin Panel](./screenshots/Admin%20panel.png)
+![Admin Panel 2](./screenshots/Admin%20panel%202.png)
 
-![Shopping Cart](./screenshots/Shopping%20cart.png)  
-*View cart items, adjust quantities, and see order summary*
-
-![Checkout](./screenshots/checkout%201.png)  
-*Multiple payment gateways and secure pay options powered by Razorpay*
-
-![Order Management (Admin)](./screenshots/admin%20panel%202%20after%20checkout.png)  
-*Admin: Track orders and update real-time status*
-
-![List Foods (Admin)](./screenshots/Admin%20panel%202.png)  
-*Admin: Manage food items and categories*
-
-![Admin Dashboard](./screenshots/Admin%20panel.png)  
-*Control center for food/menu administration*
 
 ---
 
