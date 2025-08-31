@@ -35,12 +35,13 @@ Online Food Delivery App is a fullstack project built using React (customer & ad
 
 Showcasing core features and user/admin flows:
 
-![Home Page](./screenshots/Home%20page.png)
-![Shopping Cart](./screenshots/Shopping%20cart.png)
-![Checkout](./screenshots/checkout%201.png)
-![Admin Panel After Checkout](./screenshots/admin%20panel%202%20after%20checkout.png)
-![Admin Panel](./screenshots/Admin%20panel.png)
-![Admin Panel 2](./screenshots/Admin%20panel%202.png)
+![Home Page](./screenshots/Homepage.png)
+![Shopping Cart](./screenshots/Shoppingcart.png)
+![Checkout](./screenshots/checkout1.png)
+![Admin Panel After Checkout](./screenshots/adminpanel2aftercheckout.png)
+![Admin Panel](./screenshots/Adminpanel.png)
+![Admin Panel 2](./screenshots/Adminpanel2.png)
+
 
 
 ---
@@ -68,13 +69,7 @@ Showcasing core features and user/admin flows:
 
 ---
 
-## 🔗 Useful Links & References
 
-- [Project Video Demo](https://www.youtube.com/watch?v=eoRUlkIEgmE)
-- [How to Run the Project](https://youtu.be/GJm99130qzo)
-- [Open Source Reference](https://bushansirgur.gumroad.com/l/food-delivery-app-source-code)
-
----
 
 ## 👩‍💻 Author & Contact
 
@@ -85,4 +80,3 @@ LinkedIn: [harshita-dutta](https://linkedin.com/in/harshita-dutta)
 
 ---
 
-*Crafted for impact and clarity—showcases both technical depth and user-facing features!*
